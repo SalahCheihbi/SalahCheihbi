@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=salahcheihbi)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salahcheihbi&show_icons=true&theme=radical)
