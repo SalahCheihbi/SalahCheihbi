@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Mobile developer from Morocco</h3>
 <HR size=2 align=center width="100%">
 <p align="center">
-  developer application mobile in Flutter . Professional experience with technologies included in the toolbox below.
+  developer application mobile with Flutter . Professional experience with technologies included in the toolbox below.
 
 
 <p>
