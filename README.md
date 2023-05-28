@@ -9,7 +9,7 @@
 <p>
 <HR size=2 align=center width="100%">
   
-- 🌱 I’m currently learning **Flutter**
+- 🌱 Flutter developer
 
 - 📫 How to reach me **cheihbisalah@gmail.com**
 
