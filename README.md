@@ -14,7 +14,6 @@
 
 ## 🌟 About Me
 
-- 🚀 **Flutter Developer** - Building beautiful and responsive mobile applications
 - 💡 **Problem Solver** - Passionate about clean code and best practices
 - 🌍 **Based in Morocco** - Open to remote opportunities
 - 📫 **Email**: cheihbisalah@gmail.com
