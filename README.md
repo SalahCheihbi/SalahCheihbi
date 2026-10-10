@@ -53,22 +53,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
 </div>
 
----
-
-## 📱 Featured Projects
-
-<div align="center">
-
-### Project 1: [Your Project Name]
-Description of your first mobile application project built with Flutter.
-
-### Project 2: [Your Project Name]
-Description of your second project and technologies used.
-
-### Project 3: [Your Project Name]
-Description of your third project and key features.
-
-</div>
 
 ---
 
