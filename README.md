@@ -14,8 +14,6 @@
 <br/>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=salahcheihbi.salahcheihbi&left_text=Profile%20views&left_color=%230D1117&right_color=%230175C2" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/salahcheihbi?label=Followers&style=flat-square&logo=github&color=0175C2&labelColor=0D1117" alt="Followers" />
-<img src="https://img.shields.io/badge/Open%20to-Remote%20work-2EA44F?style=flat-square&labelColor=0D1117" alt="Open to remote" />
 
 </div>
 
@@ -47,8 +45,8 @@ final salah = Developer(
     'Flutter', 'Dart',
     'Angular', 'TypeScript',
     'PHP',
+    'Swift'
   ],
-  openToRemote: true,
 );
 ```
 
